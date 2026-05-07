@@ -1,10 +1,9 @@
 streamlit
-geopandas
-matplotlib
 pandas
+matplotlib
 openpyxl
 shapely
+pyogrio
 fiona
 pyproj
-rtree
-pyogrio
+geopandas==0.14.4
